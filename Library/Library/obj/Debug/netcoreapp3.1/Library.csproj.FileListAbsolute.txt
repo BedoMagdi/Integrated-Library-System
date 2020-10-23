@@ -77,3 +77,6 @@ C:\Users\ambaz\Desktop\project\Library\Library\bin\Debug\netcoreapp3.1\LibraryDa
 C:\Users\ambaz\Desktop\project\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\ambaz\Desktop\project\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
 C:\Users\ambaz\Desktop\project\Library\Library\obj\Debug\netcoreapp3.1\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ambaz\Desktop\project\Library\Library\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\ambaz\Desktop\project\Library\Library\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\ambaz\Desktop\project\Library\Library\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
